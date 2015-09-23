@@ -1,4 +1,4 @@
-# docker-centos-general-rpmbuild-environment
+# Docker centos-rpmbuild
 
 This Dockerfile provides RPM build container for CentOS6.x environment.
 
