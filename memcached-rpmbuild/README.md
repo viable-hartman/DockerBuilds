@@ -1,6 +1,6 @@
 # Docker centos-memcached build environment
 
-This Dockerfile creates build image for php54-pecl-memcached on CentOS6.x x86_64 environment.
+This Dockerfile creates build environment for php54-pecl-memcached v2.2.0 on CentOS 6.x x86_64 environment.
 
 ## Usage
 
