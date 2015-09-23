@@ -1,4 +1,4 @@
-# docker-centos-general-rpmbuild-environment
+# Docker centos-memcached build environment
 
 This Dockerfile creates build image for php54-pecl-memcached on CentOS6.x x86_64 environment.
 
@@ -23,7 +23,7 @@ thartman/centos_rpmbuild      latest              59f519e76a61        About a mi
 centos                        centos6             72703a0520b7        2 weeks ago          190.6 MB
 ```
 
-###### Step2: Boots up the machine, runs build, puts php54-pecl-memcached in ~/RPMS host dir, removes the image when done.
+##### Step2: Boots up the machine, runs build, puts php54-pecl-memcached in ~/RPMS host dir, removes the image when done.
 
 `sudo docker run` to execute the virtual machie from base template everytime.<br>
 
