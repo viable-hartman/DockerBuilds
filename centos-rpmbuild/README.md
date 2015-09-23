@@ -22,7 +22,7 @@ thartman/centos_rpmbuild   latest              59f519e76a61        15 seconds ag
 centos                     centos6             72703a0520b7        2 weeks ago         190.6 MB
 ```
 
-###### Step2: Boots up the machine
+##### Step2: Boots up the machine
 
 `docker run` to execute the virtual machie from base template everytime.<br>
 
